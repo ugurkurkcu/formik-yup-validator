@@ -6,4 +6,4 @@
 
 <p>HTML-CSS-JS-REACT-FORMIK-YUP-BOOTSTRAP kullanıldı. </br> Responsive yapı kullanıldı</p>
 
-![](/gif/screen-1.gif)
+![](/public/screen-1.gif)
