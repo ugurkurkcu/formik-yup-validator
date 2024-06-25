@@ -1,9 +1,9 @@
-# React + Vite
+<h1>Validator REACT-FORMIK-YUP-BOOTSTRAP CSS-JS Project</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr>
 
-Currently, two official plugins are available:
+<h2>Kullanılan Teknolojiler</h2>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# formik-yup-validator
+<p>HTML-CSS-JS-REACT-FORMIK-YUP-BOOTSTRAP kullanıldı. </br> Responsive yapı kullanıldı</p>
+
+![](/gif/screen-1.gif)
